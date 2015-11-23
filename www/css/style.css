@@ -1,0 +1,259 @@
+/* Empty. Add your own CSS if you like */
+
+.pane, .view {
+    background-color: #fddf39;
+}
+
+.tabs {
+	background-color: #054356;
+	background-image: -webkit-linear-gradient(#054356, #054356 50%, transparent 50%);
+  background-image: -o-linear-gradient(#054356, #054356 50%, transparent 50%);
+  background-image: linear-gradient(#054356, #054356 50%, transparent 50%);
+}
+
+.col {
+  padding:0px;
+}
+
+.smiley {
+  width:100%;
+  display:block;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+div.exploding {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.bar-subheader {
+  background-color : #fddf39;
+  background-image:none;
+
+}
+.bar{
+  border-bottom: 1px solid #fddf39;
+}
+.tabs-striped .tabs {
+    background-color: #054356;
+    background-image: none;
+    border: none;
+    border-bottom: 1px solid #fddf39;
+    padding-top: 2px;
+}
+
+ion-tabs.tabs-color-active-positive .tab-item {
+    color: #fff;
+}
+
+ion-tabs.tabs-color-active-positive .tab-item.tab-item-active, ion-tabs.tabs-color-active-positive .tab-item.active, ion-tabs.tabs-color-active-positive .tab-item.activated {
+    color: #fddf39;
+}
+
+.twitter-signin {
+  margin-left:auto;
+  margin-right:auto;
+  text-algin:center;
+}
+
+.twitter-signin img{
+  width:100%;
+}
+
+.turntable-img {
+  width:90%;
+  height:90%;
+  display: block;
+    margin:auto;
+}
+
+@media (max-width: 400px) {
+  .twitter-signin {
+    margin-top:10%;
+  }
+}
+
+
+@media (max-width: 385px){
+  .turntable-img {
+    height:75%;
+    width:75%;
+    display: block;
+    margin:auto;
+  }
+}
+
+.mood-emoticon{
+  width:65%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.ticker-container {
+	width: 100%;
+	height: 2.9%;
+	overflow: hidden;
+  margin-top: 5px;
+  position: inherit;
+}
+.ticker-text {
+	height: 150%;
+    white-space:nowrap;
+    display:inline-block;
+    font-size: 1.2em; 
+    font-style:italic;
+}
+
+.artist-info {
+  background-repeat: no-repeat;
+  background-size:cover;
+  background-position: top;
+}
+
+.artist-info p {
+  padding:3px;
+  font-size:0.8em;
+  color:#E6DEDE;
+  line-height:1.2;
+  text-align: justify;
+  min-height:150px;
+}
+
+.item {
+  border-color:#fddf39;
+  background-color:#fec73a;
+  
+}
+
+.item p{
+  color:#054356;
+}
+
+
+.bar-googoo .button {
+  border-color: #fddf39;
+  background-color: #054356;
+  color: #fddf39; }
+.bar-googoo .button:hover {
+	color: #444;
+	text-decoration: none; }
+.bar-googoo .button.active, .bar-googoo .button.activated {
+	border-color: #a2a2a2;
+	background-color: #e5e5e5;
+	box-shadow: inset 0 1px 4px rgba(0, 0, 0, 0.1); }
+.bar-googoo .button.button-clear {
+	border-color: transparent;
+	background: none;
+	box-shadow: none;
+	color: #444;
+	font-size: 17px; }
+.bar-googoo .button.button-icon {
+	border-color: transparent;
+	background: none; }
+.bar.bar-googoo {
+    border-color: #fddf39;
+    background-color: #054356;
+    background-image: linear-gradient(0deg, #054356, #054356 50%, transparent 50%);
+    color: #fddf39; }
+.bar.bar-googoo .title {
+  	color: #fddf39; }
+.bar.bar-googoo.bar-footer {
+  background-image: -webkit-linear-gradient(#054356, #054356 50%, transparent 50%);
+  background-image: -o-linear-gradient(#054356, #054356 50%, transparent 50%);
+  background-image: linear-gradient(#054356, #054356 50%, transparent 50%); }
+
+
+@-webkit-keyframes shake-even {
+    from {
+        -webkit-transform: rotate(0deg);
+    margin-bottom: 15px;
+    }
+    25% {
+        -webkit-transform: rotate(2deg);
+        margin-bottom: 14px;
+    }
+    75% {
+        -webkit-transform: rotate(-2deg);
+        margin-bottom: 16px;
+    }
+to {
+        -webkit-transform: rotate(0deg);
+    margin-bottom: 15px;
+    }
+}
+
+@-webkit-keyframes shake-odd {
+    from {
+        -webkit-transform: rotate(0deg);
+    margin-bottom: 15px;
+    }
+    25% {
+        -webkit-transform: rotate(-2deg);
+    margin-bottom: 16px;
+    }
+    75% {
+        -webkit-transform: rotate(2deg);
+    margin-bottom: 14px;
+    }
+to {
+        -webkit-transform: rotate(0deg);
+    margin-bottom: 15px;
+    }
+}
+
+
+
+@-moz-keyframes shake-even {
+    from {
+        -moz-transform: rotate(0deg);
+    margin-bottom: 5px;
+    }
+    25% {
+        -moz-transform: rotate(2deg);
+        margin-bottom: 4px;
+    }
+    75% {
+        -moz-transform: rotate(-2deg);
+        margin-bottom: 6px;
+    }
+to {
+        -moz-transform: rotate(0deg);
+    margin-bottom: 5px;
+    }
+}
+
+@-moz-keyframes shake-odd {
+    from {
+        -moz-transform: rotate(0deg);
+    margin-bottom: 5px;
+    }
+    25% {
+        -moz-transform: rotate(-2deg);
+    margin-bottom: 6px;
+    }
+    75% {
+        -moz-transform: rotate(2deg);
+    margin-bottom: 4px;
+    }
+to {
+        -moz-transform: rotate(0deg);
+    margin-bottom: 5px;
+    }
+}
+
+.shake-even {
+  -webkit-animation: shake-even 400ms infinite linear;
+    -moz-animation: shake-even 400ms infinite linear;
+    -ms-animation: shake-even 400ms infinite linear;
+    animation: shake-even 400ms infinite linear;
+}
+
+.shake-odd {
+  -webkit-animation: shake-odd 400ms infinite linear;
+    -moz-animation: shake-odd 400ms infinite linear;
+    -ms-animation: shake-odd 400ms infinite linear;
+    animation: shake-odd 400ms infinite linear;
+}

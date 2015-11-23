@@ -1,0 +1,1353 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mobil",
+				"mobilecheck"
+			],
+			[
+				"mobile",
+				"mobile_private"
+			],
+			[
+				"name",
+				"name_session"
+			],
+			[
+				"event",
+				"eventsess"
+			],
+			[
+				"materal",
+				"material-profile"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"artist",
+				"artist_concert"
+			],
+			[
+				"array",
+				"arrayOfStrings"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"art",
+				"artist_concert"
+			],
+			[
+				"ionic",
+				"ionicPopover"
+			],
+			[
+				"cordo",
+				"cordovaLocalNotification"
+			],
+			[
+				"set",
+				"setTimeout"
+			],
+			[
+				"ion",
+				"ionicTabsDelegate"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"ioni",
+				"ionicView"
+			],
+			[
+				"get",
+				"getenv"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"time",
+				"time_last30"
+			],
+			[
+				"tem",
+				"templates"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"twi",
+				"twitterApi"
+			],
+			[
+				"result",
+				"result_type"
+			],
+			[
+				"route",
+				"routeProvider"
+			],
+			[
+				"authT",
+				"AuthToken"
+			],
+			[
+				"auth",
+				"authFactory"
+			],
+			[
+				"Auth",
+				"AuthToken"
+			],
+			[
+				"api",
+				"apiRouter"
+			],
+			[
+				"console",
+				"console.log	console.log"
+			],
+			[
+				"get_class",
+				"get_class_methods"
+			],
+			[
+				"mongo",
+				"mongo_config"
+			],
+			[
+				"get_",
+				"get_declared_classes"
+			],
+			[
+				"getc",
+				"get_called_class"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"Host",
+				"HostedZoneId"
+			],
+			[
+				"aws",
+				"awsConfig"
+			],
+			[
+				"now",
+				"nowDate"
+			],
+			[
+				"inte",
+				"interaction"
+			],
+			[
+				"Mon",
+				"MongoId"
+			],
+			[
+				"int",
+				"interaction"
+			],
+			[
+				"ent",
+				"entry_per_day"
+			],
+			[
+				"Customer",
+				"CustomerEntry"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"Re",
+				"Request"
+			],
+			[
+				"ten",
+				"tenant_config_path"
+			],
+			[
+				"te",
+				"tenant_config_path"
+			],
+			[
+				"mat",
+				"matches"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"jso",
+				"json_decode"
+			],
+			[
+				"array_un",
+				"array_unshift"
+			],
+			[
+				"Cus",
+				"CustomerExport"
+			],
+			[
+				"create",
+				"createQueryBuilder"
+			],
+			[
+				"dat",
+				"data_to_export"
+			],
+			[
+				"in",
+				"in_array"
+			],
+			[
+				"getI",
+				"getInteraction"
+			],
+			[
+				"Mo",
+				"MongoId"
+			],
+			[
+				"Cust",
+				"CustomerExport"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"cust",
+				"custom_attributes"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"attributes",
+				"AttributesList"
+			],
+			[
+				"str",
+				"strtolower"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"attri",
+				"attributes"
+			],
+			[
+				"entry",
+				"entrylimit"
+			],
+			[
+				"RESPO",
+				"response_data"
+			],
+			[
+				"array_s",
+				"array_shift"
+			],
+			[
+				"array_",
+				"array_keys"
+			],
+			[
+				"deleted_",
+				"deleted_webendpoint_names"
+			],
+			[
+				"del",
+				"deleted_webendpoints"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"dele",
+				"deleted_webendpoint"
+			],
+			[
+				"customer",
+				"customer_id"
+			],
+			[
+				"look",
+				"lookup"
+			],
+			[
+				"sub",
+				"subscription"
+			],
+			[
+				"attribute",
+				"attributeResult"
+			],
+			[
+				"Attri",
+				"Attributes"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"table",
+				"table_prefix"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"prit",
+				"print_r"
+			],
+			[
+				"input",
+				"input_data"
+			],
+			[
+				"custom",
+				"custom_routes"
+			],
+			[
+				"allow",
+				"allowed_origins"
+			],
+			[
+				"app",
+				"app_key"
+			],
+			[
+				"query",
+				"query_data"
+			],
+			[
+				"Sub",
+				"Submission"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"consoe",
+				"console.log	console.log"
+			],
+			[
+				"match",
+				"matchkey"
+			],
+			[
+				"find",
+				"findOneBy"
+			],
+			[
+				"Custo",
+				"CustomerEntry"
+			],
+			[
+				"Subs",
+				"Subscription"
+			],
+			[
+				"center",
+				"centerMode"
+			],
+			[
+				"Submis",
+				"Submission"
+			],
+			[
+				"res",
+				"response_data"
+			],
+			[
+				"Voting",
+				"VotingEntry"
+			],
+			[
+				"group",
+				"group_selector"
+			],
+			[
+				"aggr",
+				"aggregate"
+			],
+			[
+				"Mongo",
+				"MongoId"
+			],
+			[
+				"ag",
+				"aggregate_age"
+			],
+			[
+				"file",
+				"filepath"
+			],
+			[
+				"accoun",
+				"accountDB"
+			],
+			[
+				"CUST",
+				"customer_id"
+			],
+			[
+				"loo",
+				"lookup"
+			],
+			[
+				"agg",
+				"aggregate_page"
+			],
+			[
+				"last",
+				"last_update"
+			],
+			[
+				"stu",
+				"student_id"
+			],
+			[
+				"base",
+				"base64_decode"
+			],
+			[
+				"preg",
+				"preg_match"
+			],
+			[
+				"is_i",
+				"is_int"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"is_",
+				"is_int"
+			],
+			[
+				"type",
+				"typeOfValue"
+			],
+			[
+				"Mong",
+				"MongoId"
+			],
+			[
+				"Submission",
+				"SubmissionEntry"
+			],
+			[
+				"data",
+				"data_chart"
+			],
+			[
+				"Faceboo",
+				"FacebookUser"
+			],
+			[
+				"lookup",
+				"lookupID"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"custome",
+				"customerid"
+			],
+			[
+				"likes",
+				"likes_data"
+			],
+			[
+				"like",
+				"likes_data"
+			],
+			[
+				"url",
+				"url_crawler"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"pre",
+				"preparedQuery"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 207.0,
+		"selected_items":
+		[
+			[
+				"JSON",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"jav",
+				"Javascript Beautify"
+			],
+			[
+				"tid",
+				"Tidy HTML"
+			],
+			[
+				"ja",
+				"Javascript Beautify"
+			],
+			[
+				"htm",
+				"Tidy HTML"
+			],
+			[
+				"java",
+				"Javascript Beautify"
+			],
+			[
+				"bea",
+				"Javascript Beautify"
+			],
+			[
+				"beu",
+				"Javascript Beautify"
+			],
+			[
+				"j",
+				"Javascript Beautify"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"Tidy HTML"
+			],
+			[
+				"ti",
+				"Tidy HTML"
+			],
+			[
+				"PAC",
+				"Package Control: Disable Package"
+			],
+			[
+				"css",
+				"Tidy CSS (Highest Compression)"
+			],
+			[
+				"tidy",
+				"Tidy HTML"
+			],
+			[
+				"dif",
+				"FileDiffs: Menu"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git com",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"git commit message",
+				"Set Syntax: Git Commit Message"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git add .",
+				"Git: Add..."
+			],
+			[
+				"git: Commit",
+				"Git: Commit"
+			],
+			[
+				"git: com",
+				"Git: Commit"
+			],
+			[
+				"git: ad",
+				"Git: Add Current File"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Tidy PHP"
+			],
+			[
+				"doc",
+				"Snippet: doctype XHTML 1.0 Transitional DTD"
+			],
+			[
+				"doct",
+				"Snippet: doctype XHTML 1.0 Transitional DTD"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: controller"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/js/map.js",
+		"/Users/khalidadisendjaja/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/setting.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/schedule-home.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/speaker-detail.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/signup.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/setting.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/schedule-user.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/schedule-favorite.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/schedule-detail.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/profile.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/participants.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/participant-detail.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/notification.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/materials.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/login.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/forgot-password.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/feedback.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/feedback-thankyou.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/fastrack.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/edit-profile.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/change-password.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/denah.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/css/general.css",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/lib/ionic/css/ionic.css",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/api_event.json",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/api_event_yonie.json",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/api_material.json",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/feedback.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/partners.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/dg5api/session.php",
+		"/Users/khalidadisendjaja/Sites/phonegap/dg5api/user.php",
+		"/Users/khalidadisendjaja/Sites/phonegap/dg5api/schedule.php",
+		"/Users/khalidadisendjaja/Sites/phonegap/dg5api/auth.php",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/map.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/config.xml",
+		"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www/schedule-home.bckup",
+		"/Users/khalidadisendjaja/Sites/izzi-api/public/.htaccess",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/modal.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/lib/htmlentities.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/js/controllers.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/js/app.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/plugins/de.appplant.cordova.plugin.local-notification/plugin.xml",
+		"/Users/khalidadisendjaja/Sites/googooApi/public/index.php",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/tab-dash2.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/callback.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/js/services.js",
+		"/Users/khalidadisendjaja/Downloads/mount (3).xspf",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/lib/sha.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/tab-chats.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/tab-chats2.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/tab-account.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/templates/tab-dash.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/template/home.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/callback.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/index.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/index.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/js/controllers.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/js/app.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/template/contact.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/template/about.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/lib/ngCordova/dist/ng-cordova.js",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/www/template/tabs.html",
+		"/Users/khalidadisendjaja/Sites/phonegap/ionic-http-auth/package.json",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/config.xml",
+		"/Users/khalidadisendjaja/Sites/phonegap/radioGue/package.json",
+		"/Users/khalidadisendjaja/Desktop/Knizia samurai key.txt",
+		"/Users/khalidadisendjaja/Sites/mean-machine/mean-stack/public/app/services/user.js",
+		"/Users/khalidadisendjaja/Sites/mean-machine/mean-stack/public/app/services/auth.js",
+		"/Users/khalidadisendjaja/Sites/mean-machine/mean-stack/public/app/services/userService.js",
+		"/Users/khalidadisendjaja/.config/beets/config.yaml",
+		"/Users/khalidadisendjaja/phonegap/mypocapp/www/js/controllers.js",
+		"/Users/khalidadisendjaja/phonegap/todo/www/index.html",
+		"/Users/khalidadisendjaja/phonegap/lari-lari/www/index2.html",
+		"/Users/khalidadisendjaja/vhosts",
+		"/Users/khalidadisendjaja/hosts",
+		"/Users/khalidadisendjaja/phonegap/MyAngularPhoneGapProject/www/js/app.js",
+		"/Users/khalidadisendjaja/phonegap/mypocapp/www/index.html",
+		"/Users/khalidadisendjaja/phonegap/my-app/www/index.html",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Models/DynamicModel.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/CollectionDelegator.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Models/Collection.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Controllers/CollectionController.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model/App.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Database/CollectionDelegator.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/vendor/illuminate/events/Illuminate/Events/Dispatcher.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model/DynamicModel.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model/Collection.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/vendor/jenssegers/mongodb/src/Jenssegers/Eloquent/Model.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/vendor/illuminate/database/Illuminate/Database/Eloquent/Model.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/routes.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Application/Routes.php",
+		"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/bootstrap/connection.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Controllers/UserController.php",
+		"/Users/khalidadisendjaja/Sites/lumen/vendor/laravel/lumen-framework/src/Application.php",
+		"/Users/khalidadisendjaja/Sites/lumen/vendor/illuminate/http/Response.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Context.php",
+		"/Users/khalidadisendjaja/Sites/lumen/storage/logs/lumen.log",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Providers/CatchAllOptionsRequestsProvider.php",
+		"/Users/khalidadisendjaja/Sites/lumen/bootstrap/app.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Middleware/TenantMiddleware.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Middleware/AppMiddleware.php",
+		"/Users/khalidadisendjaja/Sites/lumen/public/test.php",
+		"/Users/khalidadisendjaja/Sites/lumen/vendor/illuminate/http/Request.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Middleware/ExampleMiddleware.php",
+		"/Users/khalidadisendjaja/Sites/lumen/config/database-two.php",
+		"/Users/khalidadisendjaja/Sites/lumen/vendor/jenssegers/mongodb/src/Jenssegers/Mongodb/Query/Builder.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Models/Apps.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Models/Model.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Models/AppKey.php",
+		"/Users/khalidadisendjaja/Sites/lumen/vendor/laravel/lumen-framework/src/Routing/DispatchesCommands.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Controllers/ApplicationController.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/Controllers/AppController.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Repositories/UserRepository.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Providers/AppServiceProvider.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Repositories/Contracts/RepositoryInterface.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Repositories/AdminRepository.php",
+		"/Users/khalidadisendjaja/Sites/lumen/config/database.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Http/untitled.twig",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Repositories/Models/AppRepository.php",
+		"/Users/khalidadisendjaja/Sites/lumen/config/database-one.php",
+		"/Users/khalidadisendjaja/Sites/lumen/app/Repositories/RepositoryInterface.php",
+		"/Users/khalidadisendjaja/Sites/lumen/.env",
+		"/Users/khalidadisendjaja/Downloads/dnscrypt (1)/system/etc/init.d/99dnscrypt",
+		"/Users/khalidadisendjaja/.bash_profile",
+		"/Users/khalidadisendjaja/Sites/hook-cli/src/Client/Client.php",
+		"/Users/khalidadisendjaja/Sites/hook/config/database.php",
+		"/Users/khalidadisendjaja/Sites/hook-php/src/Hook/Client.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/khalidadisendjaja/Sites/phonegap/markplus-mobile-app/www",
+			"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/lib",
+			"/Users/khalidadisendjaja/Sites/phonegap/myTabApp/www/lib/ngCordova",
+			"/Users/khalidadisendjaja/Sites/phonegap/myTabApp",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Controllers",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Controllers",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/bootstrap",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Model",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Middlewares",
+			"/Users/khalidadisendjaja/Sites/hook-backup/hook/src/Controllers",
+			"/Users/khalidadisendjaja/Sites/lumen/vendor/illuminate/database",
+			"/Users/khalidadisendjaja/Sites/hook",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/views/layouts",
+			"/Users/khalidadisendjaja/Sites/PHP-Daemon/Core",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/hook/src",
+			"/Users/khalidadisendjaja/Sites/hook/src/Controllers",
+			"/Users/khalidadisendjaja/Sites/hook/vendor/illuminate/database/Illuminate/Database",
+			"/Users/khalidadisendjaja/Sites/hook/src",
+			"/Users/khalidadisendjaja/Sites/hook",
+			"/Users/khalidadisendjaja/Sites/hook/src",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine/mongodb-odm",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine/mongodb",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine/mongodb/lib/Doctrine/MongoDB",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers/api/v1",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate/Queue",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate/Queue",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/kh411d/laravel-odm-auth",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine",
+			"/Users/khalidadisendjaja/Sites/ccrm/app",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/mandrill/mandrill/src/Mandrill",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor",
+			"/Users/khalidadisendjaja/Sites/ccrm/app",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/views",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/docs",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/src/Aws",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/src/Aws/Common",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/src/Aws/S3",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/src/Aws",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/aws/aws-sdk-php/src/Aws/S3",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/bshaffer/oauth2-server-php/src/OAuth2",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries/controllers",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries/models",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries/controllers",
+			"/Users/khalidadisendjaja/Sites/frontend/src/libraries",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/doctrine/mongodb-odm/lib/Doctrine/ODM/MongoDB/Mapping",
+			"/Users/khalidadisendjaja/Sites/zf-apigility-skeleton/vendor/zfcampus/zf-api-problem/src/ZF",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate",
+			"/Users/khalidadisendjaja/Sites/ccrm",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/models",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/rcrowe/twigbridge/src/TwigBridge",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/kh411d/laravel-odm-auth/src/OdmAuth",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/twig/twig",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel",
+			"/Users/khalidadisendjaja/Sites/ccrm/app/controllers",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/laravel/framework/src/Illuminate/View",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/rcrowe/twigbridge",
+			"/Users/khalidadisendjaja/Sites/ccrm/vendor/rcrowe/twigbridge/src",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine/mongodb-odm",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine/mongodb-odm/lib/Doctrine",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/laravel/framework/src/Illuminate/Auth",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations",
+			"/Users/khalidadisendjaja/Sites/laravel4-beta5/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/Annotation",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/views/dashboard",
+			"/Users/khalidadisendjaja/Sites/ci213-system",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/views/dashboard",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/libraries",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/controllers",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/views",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com/application/views/dashboard",
+			"/Users/khalidadisendjaja/Sites/oauth.googlecode/php/tests",
+			"/Users/khalidadisendjaja/Sites/id.guinnessapps.com",
+			"/Users/khalidadisendjaja/Sites/Guinn-App-Gen/application/models",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security/Symfony/Component/Security",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security/Symfony/Component/Security",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/silex/silex/src/Silex/Util",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/silex/silex/src/Silex",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security/Symfony/Component/Security",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security",
+			"/Users/khalidadisendjaja/Sites/cud-api/vendor/symfony/security/Symfony/Component/Security"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".sessTopic",
+			"<!--<li><a href=\"map.html\">MAP</a></li>-->",
+			"<!--<li class=\"navHide\"><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>-->",
+			"<!--<li><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>-->",
+			"checkin",
+			"feedback",
+			"feedback.js",
+			"scbox-image",
+			"feedback",
+			"<li class=\"navHide\"><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>",
+			"<li><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>",
+			"scbox-image",
+			"image",
+			".sc-detail .sc-like",
+			"<li><a href=\"map.html\">MAP</a></li>",
+			"checkin",
+			"checkign",
+			"I want to meet",
+			"feedback",
+			"http://marketeersmice.markplusconference.com/dg5api",
+			"participant-item",
+			"accolade",
+			"favour",
+			"_list.id_session",
+			"console.log",
+			"name_sess",
+			"curSess.list",
+			"curSess.category",
+			"_sess.session",
+			"_sess.category",
+			"name_session",
+			"http://marketeersmice.markplusconference.com/dg5api",
+			"fast",
+			"fastrack",
+			"fasttrack",
+			"$http",
+			"partner",
+			"join",
+			"subheader",
+			"max-height",
+			"def leppa",
+			"filter",
+			"date",
+			"twitterKey",
+			"john",
+			"backgroundMode",
+			"analytic",
+			"twitter",
+			"png",
+			"@media",
+			"portrait",
+			"@media",
+			"col",
+			"has been locked",
+			"twitter",
+			"createsignature(",
+			"function createsignature(",
+			"createsignature",
+			"create signature",
+			"callback",
+			"oauth",
+			".col",
+			"col25",
+			".col",
+			"setCorsHeaders",
+			"setOrigin",
+			"cors",
+			"base64",
+			"base",
+			"64",
+			"credentials",
+			"local",
+			"phpmyadmin.local",
+			"radio",
+			"tweet",
+			"then",
+			"bar-stable",
+			"oauth",
+			"resource",
+			"sha",
+			"mediastatus",
+			"media.",
+			"newMedia(",
+			"media",
+			"Media(",
+			"media",
+			"validator",
+			"tracking_data",
+			"Sites",
+			"$query",
+			"registermodel",
+			"chunk",
+			"DB::",
+			"DB",
+			"getModel",
+			"Schema\\Builder",
+			"fireevent",
+			"eager",
+			"register",
+			"registermodelevent",
+			"setEventDispatcher",
+			"static::$dispatcher =",
+			"$dispatcher",
+			"loadobserver",
+			"booted",
+			"boot",
+			"loadObserver",
+			"DB",
+			"cache",
+			"setCacheManager",
+			"cache",
+			"setCacheManager",
+			"request",
+			"response",
+			"middleware",
+			"middlewares",
+			"config",
+			"Router",
+			"toArray",
+			"config",
+			"confiig",
+			"config",
+			"newBaseQueryBuilder",
+			"function newBaseQueryBuilder",
+			"from",
+			"from(",
+			"query(",
+			"query"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<li><a href=\"map.html\">MAP</a></li>",
+			"<li class=\"navHide\"><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>",
+			"<li><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>",
+			"<!--<li class=\"navHide\"><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>-->",
+			"<!--<li><a href=\"schedule-favorite.html\">MY FAVOURITE</a></li>-->",
+			"<!--<li><a href=\"map.html\">MAP</a></li>-->",
+			"https://secure.think.web.id/markplus/dg5api",
+			"_list.session_id",
+			"curSess.session",
+			"curSess.category_name",
+			"_sess.category",
+			"name_sess",
+			"https://secure.think.web.id/markplus/dg5api",
+			"http://secure.think.web.id/markplus/dg5api",
+			"bar-googoo",
+			"/assets/css/fonts/fontawesome",
+			"interaction.$id",
+			"setInteraction",
+			"getInteraction",
+			"CustomerEntry",
+			"getInteraction",
+			"interaction.$id",
+			"getInteraction",
+			"CustomerEntry",
+			"getInteraction",
+			"CustomerEntry",
+			"getInteraction",
+			"CustomerEntry",
+			"interaction.$id",
+			"CustomerEntry",
+			"interaction.$id",
+			"getInteraction",
+			"CustomerEntry",
+			"$EntryIndex",
+			"$EntryModel",
+			"$items[\\2] = \\1;",
+			"$items[\\2] = \\1",
+			"\\1:\\2,",
+			"\\1=\\2",
+			"\\1",
+			"color_0",
+			"\\1",
+			"$1",
+			"color_0",
+			"color_12",
+			"By Customer Entry",
+			"ObjectId($1)",
+			"Auth::acl()",
+			"$this->collection()",
+			"'errors',$validator->messages()",
+			"getId",
+			"submission",
+			"target_attributes",
+			"",
+			"$v",
+			"''=>'Is Equals'",
+			"getId",
+			"mailtemplate",
+			"MailTemplate",
+			"voting",
+			"VotingController",
+			"Voting",
+			"$Voting",
+			"voting",
+			"App::make('odm.documentmanager');",
+			"'odm.documentmanager'",
+			"laravel-odm",
+			"laravel-doctrine-mongodb",
+			"$this->dm",
+			"$dm",
+			"Doctrine.MongoDB",
+			"subscription",
+			"Subscription",
+			"$matchkey.$matchvalue",
+			"Input::",
+			"$Submission",
+			"$default",
+			"<img $1 src=\"\\{\\{ url_asset\\('\\/assets\\/$2'\\) \\}\\}\"$3>",
+			"<link $1 href=\"\\{\\{ url_asset\\('\\/assets\\/$2'\\) \\}\\}\"$3>",
+			"<script $1 src=\"\\{\\{ url_asset\\('\\/assets\\/$2'\\) \\}\\}\"$3>",
+			"<link $1 href=\"\\{\\{ url_asset\\('\\/assets\\/$2'\\) \\}\\}\"$3>",
+			"<script $1 src=\"\\{\\{ url_asset\\('\\/assets\\/$2'\\) \\}\\}\"$3>",
+			"<script src=\"\\{\\{ url_asset\\('\\/assets\\/$1'\\) \\}\\}\"$2>",
+			"<script src=\"{{ url_asset('/assets/$2') }}\"$3>",
+			"<script src=\"{{ url_asset('/assets/$2') }}\"$2>",
+			"<script src=\"{{ url_asset('/assets/$1') }}\"$2>",
+			"<script src=\"{{ url_asset('/assets/$1') }}\">",
+			"src=\"assets/$1\"",
+			"asdf",
+			"$this->acl",
+			"->getAuthIdentifier()",
+			"setAttribute",
+			"<?php echo base_url()?>assets",
+			"Arial",
+			"$this->oauth1_token_model",
+			"$this->oauth1_consumer_model",
+			"$this->oauth1_token_model",
+			"$this->oauth1_token_model;",
+			"$this->oauth1_consumer_model;",
+			"$this->template->build",
+			"$this->user_model",
+			"tahoma",
+			"Arial",
+			"Goudy Bookletter 1911",
+			"#c99d3a",
+			"$this->tmhoauth",
+			"$tmhoauth",
+			"$this->tmhOAuth",
+			"customer",
+			"id",
+			"FBcover.loadImage(null,$(this).attr('src'),{isDraggable:true,max_side:160});",
+			"My Precious Mom",
+			"logo-feed.png",
+			"",
+			"src=\"<?php echo base_url()?>assets/images/cover/",
+			".upload-container",
+			"RestImgUploader.container",
+			"RestImgUploader.",
+			"item_status",
+			"perms",
+			"$this->musers",
+			"customer_items",
+			"campaigns",
+			"Credential",
+			"$encrypted_text",
+			"$plain_text",
+			"$CI->config->item",
+			"$CI->config->set_item"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.git":
+	{
+		"height": 112.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}

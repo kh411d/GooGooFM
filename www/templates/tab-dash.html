@@ -1,0 +1,84 @@
+<ion-view view-title="#NowPlaying">
+  <ion-header-bar class="bar bar-subheader">
+  <div class="item-input-wrapper" style="background-color : #fddf39; border:none;">
+	<div class = "ticker-container" >
+		<div class = "ticker-text">
+	       {{title}}
+		</div>
+	</div>
+  </div>
+</ion-header-bar>
+  <ion-content class="has-subheader" scroll="false" >
+
+  <ion-slide-box >
+  <ion-slide>
+  <div class="row responsive-sm">
+	
+	<div class="col">
+	  	<!-- row player -->
+		<div class="row">
+		 	<div class="col">	
+				<div class="row" style="text-align:center;">
+				  	<img class="turntable-img" src="assets/disc_stop.png" ng-click="play()" ng-hide="playing" />
+				  	<img class="turntable-img" src="assets/disc_play.gif" ng-click="stop()" ng-show="playing"/>
+				</div>
+		  	</div>
+	  	</div>
+	</div>	
+	<div class="col">
+		<!-- row smiley -->
+		<div class="row">
+		  <div class="col"><img class="mood-emoticon shake-even" ng-click="mood(5)" src="assets/smiley/5.png" /></div>
+		  <div class="col"><img class="mood-emoticon shake-odd" ng-click="mood(9)" src="assets/smiley/9.png"/></div>
+		  <div class="col"><img class="mood-emoticon shake-even" ng-click="mood(10)" src="assets/smiley/10.png"/></div>
+		  <div class="col"><img class="mood-emoticon shake-odd" ng-click="mood(11)" src="assets/smiley/11.png"/></div>
+		</div>
+		<div class="row">
+		  <div class="col"><img class="mood-emoticon shake-even" ng-click="mood(14)" src="assets/smiley/14.png"/></div>
+		  <div class="col"><img class="mood-emoticon shake-odd" ng-click="mood(17)" src="assets/smiley/17.png"/></div> 
+		  <div class="col"><img class="mood-emoticon shake-even" ng-click="mood(19)" src="assets/smiley/19.png"/></div>
+		  <div class="col"><img class="mood-emoticon shake-odd" ng-click="mood(22)" src="assets/smiley/22.png"/></div>
+		</div>
+	</div>	
+</div>
+  </ion-slide>
+   <ion-slide>
+   <div class="row responsive-sm">
+   	
+
+<div class="col" style="margin-bottom:0px;">
+	<div class="item item-divider">
+	   <img style="height:20px;" src="assets/lastfm.png" />
+	  </div>
+   	<div class="artist-info" ng-show="artist_info.summary"  style="background-image:url({{artist_info.imgsrc}});">
+   		<p ng-bind-html="artist_info.summary | hrefToJS"></p>
+   	</div>
+   	<div ng-hide="artist_info.summary" style="height:150px;">
+   		<div style="position:relative;top:40px;text-align:center;">Artist info not available</div>
+   	</div>
+</div>
+
+   	<div class="col">
+   		<div class="item item-divider">
+	   <img style="height:20px;" src="assets/concertsbysk.png" />
+	  </div>
+	  <div ng-show="artist_info.concerts" class="row" ng-repeat="concert in artist_info.concerts" style="font-size:0.8em">
+			<div class="col" style="max-width:80%">
+				<b>{{concert.date | date:'longDate'}}</b><br>{{concert.name}}
+			</div>
+			<div class="col" style="max-width:20%;text-align:center;">
+				<a class="button button-positive"  ng-click="GotoLink(concert.uri);" >Buy</a>
+			</div>
+	</div>
+		<div ng-hide="artist_info.concerts" style="height:150px;">
+   		<div style="position:relative;top:40px;text-align:center;">Concerts info not available</div>
+   	</div>
+   	</div>
+   </div>
+	
+  </ion-slide>
+</ion-slide-box>
+
+  
+  </ion-content>
+</ion-view>
